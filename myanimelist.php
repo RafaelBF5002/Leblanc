@@ -1,7 +1,6 @@
 
 <!DOCTYPE html>
 <html>
-<!-- alcantra vadiazinha -->
 <head>
     <title>Leblanc Café</title>
     <!-- <link rel="stylesheet" type="text/css" href="estilos_css/sistema.css"> -->
